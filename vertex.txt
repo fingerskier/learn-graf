@@ -1,0 +1,5 @@
+vertex {
+	id: <unique_int>
+	properties[{}]
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "learn-graf",
+  "version": "1.0.0",
+  "description": "Nodejs + graphdb + MQTT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fingerskier/learn-graf.git"
+  },
+  "author": "fingerskier",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fingerskier/learn-graf/issues"
+  },
+  "homepage": "https://github.com/fingerskier/learn-graf#readme",
+  "dependencies": {
+    "levelgraph": "^2.1.1",
+    "levelup": "^3.1.1"
+  }
+}
